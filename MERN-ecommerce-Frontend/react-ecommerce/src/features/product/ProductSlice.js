@@ -56,9 +56,7 @@ export const productSlice = createSlice({
   name: 'product',
   initialState,
   reducers: {
-    increment: (state) => {
-      state.value += 1;
-    },
+
   },
   extraReducers: (builder) => {
     builder
@@ -100,7 +98,7 @@ export const productSlice = createSlice({
   },
 });
 
-export const { increment } = productSlice.actions;
+
 
 export const selectAllProducts = (state) => state.product.products;
 export const selectBrands = (state) => state.product.brands;
