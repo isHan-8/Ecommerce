@@ -4,8 +4,8 @@
       "id": "1",
       "title": "iPhone 9",
       "description": "An apple mobile which is nothing like apple",
-      "price": 993,
-      "discountPercentage": 12.96,
+      "price": 9931,
+      "discountPercentage": 12.961,
       "rating": 0,
       "stock": 0,
       "brand": "Apple",
@@ -58,7 +58,7 @@
       "id": "4",
       "title": "OPPOF19",
       "description": "OPPO F19 is officially announced on April 2021.",
-      "price": 300,
+      "price": 3001,
       "discountPercentage": 17.91,
       "rating": 0,
       "stock": 123,
@@ -2357,6 +2357,27 @@
       "id": "3f91",
       "email": "demo@gmail.com",
       "password": "IshanCristiano@123"
+    },
+    {
+      "id": "042d",
+      "email": "admin@gmail.com",
+      "password": "Ishan@123",
+      "addresses": [],
+      "role": "user"
+    },
+    {
+      "id": "435c",
+      "email": "admin@gmail.com",
+      "password": "Ishan@123",
+      "addresses": [],
+      "role": "user"
+    },
+    {
+      "id": "6298",
+      "email": "admin@gmail.com",
+      "password": "Ishan@123",
+      "addresses": [],
+      "role": "user"
     }
   ],
   "cart": [

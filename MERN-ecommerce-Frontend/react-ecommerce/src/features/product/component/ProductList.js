@@ -1305,15 +1305,21 @@ function MobileFilter({
                         </p>
                         <p className="text-sm block line-through font-medium text-gray-400">
                           ${product.price}
-                        </p>
-                      </div>
-                    </div>
+                          </p>
                   </div>
-                </Link>
-              ))}
-            </div>
-          </div>
+                </div>
+                {product.deleted && (
+                  <div>
+                    <p className="text-sm text-red-400">product deleted</p>
+                  </div>
+                )}
+                {/* will not be needed when backend is implemented */}
+              </div>
+            </Link>
+          ))}
         </div>
-      );
-    }
+      </div>
+    </div>
+  );
+}
   
