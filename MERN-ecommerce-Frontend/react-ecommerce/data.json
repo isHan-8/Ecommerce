@@ -2422,26 +2422,6 @@
       "user": "2"
     },
     {
-      "id": "1053",
-      "title": "HP Pavilion 15-DK1056WM",
-      "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
-      "price": 1099,
-      "discountPercentage": 6.18,
-      "rating": 4.43,
-      "stock": 89,
-      "brand": "HP Pavilion",
-      "category": "laptops",
-      "thumbnail": "https://images.unsplash.com/photo-1485529910432-783b455774fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGpwZ3xlbnwwfHwwfHx8MA%3D%3D",
-      "images": [
-        "https://images.unsplash.com/photo-1485529910432-783b455774fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGpwZ3xlbnwwfHwwfHx8MA%3D%3D",
-        "https://images.unsplash.com/photo-1485529910432-783b455774fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGpwZ3xlbnwwfHwwfHx8MA%3D%3D",
-        "https://images.unsplash.com/photo-1485529910432-783b455774fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGpwZ3xlbnwwfHwwfHx8MA%3D%3D",
-        "https://images.unsplash.com/photo-1485529910432-783b455774fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGpwZ3xlbnwwfHwwfHx8MA%3D%3D"
-      ],
-      "quantity": 1,
-      "user": "2"
-    },
-    {
       "id": "90d0",
       "title": "iPhone 9",
       "description": "An apple mobile which is nothing like apple",
@@ -2459,6 +2439,71 @@
         "https://images.unsplash.com/photo-1485529910432-783b455774fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGpwZ3xlbnwwfHwwfHx8MA%3D%3D"
       ],
       "deleted": true,
+      "quantity": 3,
+      "user": "2"
+    },
+    {
+      "id": "2a37",
+      "title": "iPhone X",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": 1111,
+      "discountPercentage": 17.94,
+      "rating": 0,
+      "stock": 34,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://images.unsplash.com/photo-1485529910432-783b455774fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGpwZ3xlbnwwfHwwfHx8MA%3D%3D",
+      "images": [
+        "https://images.unsplash.com/photo-1485529910432-783b455774fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGpwZ3xlbnwwfHwwfHx8MA%3D%3D",
+        "https://images.unsplash.com/photo-1485529910432-783b455774fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGpwZ3xlbnwwfHwwfHx8MA%3D%3D",
+        "https://images.unsplash.com/photo-1485529910432-783b455774fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGpwZ3xlbnwwfHwwfHx8MA%3D%3D",
+        "https://images.unsplash.com/photo-1485529910432-783b455774fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGpwZ3xlbnwwfHwwfHx8MA%3D%3D"
+      ],
+      "deleted": true,
+      "productId": "2",
+      "quantity": 4,
+      "user": "2"
+    },
+    {
+      "id": "5fd3",
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 9931,
+      "discountPercentage": 12.961,
+      "rating": 0,
+      "stock": 0,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://images.unsplash.com/photo-1485529910432-783b455774fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGpwZ3xlbnwwfHwwfHx8MA%3D%3D",
+      "images": [
+        "https://images.unsplash.com/photo-1485529910432-783b455774fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGpwZ3xlbnwwfHwwfHx8MA%3D%3D",
+        "https://images.unsplash.com/photo-1485529910432-783b455774fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGpwZ3xlbnwwfHwwfHx8MA%3D%3D",
+        "https://images.unsplash.com/photo-1485529910432-783b455774fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGpwZ3xlbnwwfHwwfHx8MA%3D%3D",
+        "https://images.unsplash.com/photo-1485529910432-783b455774fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGpwZ3xlbnwwfHwwfHx8MA%3D%3D"
+      ],
+      "deleted": true,
+      "productId": "1",
+      "quantity": 4,
+      "user": "3"
+    },
+    {
+      "id": "20aa",
+      "title": "OPPOF19",
+      "description": "OPPO F19 is officially announced on April 2021.",
+      "price": 3001,
+      "discountPercentage": 17.91,
+      "rating": 0,
+      "stock": 123,
+      "brand": "OPPO",
+      "category": "smartphones",
+      "thumbnail": "https://images.unsplash.com/photo-1485529910432-783b455774fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGpwZ3xlbnwwfHwwfHx8MA%3D%3D",
+      "images": [
+        "https://images.unsplash.com/photo-1485529910432-783b455774fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGpwZ3xlbnwwfHwwfHx8MA%3D%3D",
+        "https://images.unsplash.com/photo-1485529910432-783b455774fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGpwZ3xlbnwwfHwwfHx8MA%3D%3D",
+        "https://images.unsplash.com/photo-1485529910432-783b455774fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGpwZ3xlbnwwfHwwfHx8MA%3D%3D",
+        "https://images.unsplash.com/photo-1485529910432-783b455774fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGpwZ3xlbnwwfHwwfHx8MA%3D%3D"
+      ],
+      "productId": "4",
       "quantity": 1,
       "user": "2"
     }
@@ -2919,7 +2964,7 @@
         "state": "Maharastra",
         "pinCode": "220001"
       },
-      "status": "pending",
+      "status": "delivered",
       "id": "7"
     },
     {
